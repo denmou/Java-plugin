@@ -6,6 +6,7 @@
     <version>0.0.3</version>
     <modules>
         <module>difference</module>
+        <module>transcription</module>
     </modules>
     <packaging>pom</packaging>
 
